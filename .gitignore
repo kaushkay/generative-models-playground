@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Hydra
+.multirun/
+.hydra/
+
+# WandB local cache
+wandb/
+wandb-debug.log

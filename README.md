@@ -1,2 +1,2 @@
 # generative-models-playground
-Generative Models Playground
+A deep dive into modern generative models.
